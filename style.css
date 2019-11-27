@@ -1,0 +1,20 @@
+/*
+ Theme Name: Z3
+ Template: twentysixteen
+ Text Domain: z3
+*/
+
+a.button {
+	display: block;
+	padding: 8px 16px;
+	text-decoration: none;
+	background-color: rgb(120, 190, 32);
+	color: #fff;
+	font-size: 1rem;
+}
+a.button:focus, a.button:hover {
+	background-color: rgb(239, 51, 64);
+}
+.custom-html-widget a.button {
+	margin-bottom: 1em;
+}
